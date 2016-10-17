@@ -1,0 +1,2 @@
+# OCSpecs
+Specs for cocoaPods
