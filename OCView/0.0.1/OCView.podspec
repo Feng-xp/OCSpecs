@@ -116,7 +116,7 @@ Pod::Spec.new do |s|
   #
 
   s.frameworks = 'UIKit', 'QuartzCore', 'Foundation'
-  s.module_name = 'COView'
+  s.module_name = 'OCView'
 
   # s.library   = "iconv"
   # s.libraries = "iconv", "xml2"
