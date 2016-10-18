@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = "Test for cocoapods"
 
-  s.homepage     = "https://github.com/Feng-xp/OCView.git"
+  s.homepage     = "https://github.com/Feng-xp"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
