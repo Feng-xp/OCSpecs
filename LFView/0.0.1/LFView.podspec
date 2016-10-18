@@ -117,6 +117,7 @@ Pod::Spec.new do |s|
 
   # s.framework  = "SomeFramework"
   # s.frameworks = "SomeFramework", "AnotherFramework"
+  s.module_name = 'LFView'
 
   # s.library   = "iconv"
   # s.libraries = "iconv", "xml2"
