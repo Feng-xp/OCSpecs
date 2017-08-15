@@ -35,6 +35,10 @@ TODO: Add long description of the pod here.
   s.subspec 'OCViewSub1' do |sub1|
       sub1.source_files = 'OCViewDemo/Classes/OCViewSub1/*.{h,m}'
   end
+
+  s.subspec 'OCViewSub2' do |sub2|
+      sub2.source_files = 'OCViewDemo/Classes/OCViewSub2/*.{h,m}'
+  end
   
   # s.resource_bundles = {
   #   'OCViewDemo' => ['OCViewDemo/Assets/*.png']
